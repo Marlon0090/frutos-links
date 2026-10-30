@@ -18,7 +18,7 @@ const LINKS = {
   centro: "https://www.google.com/maps/search/?api=1&query=Rua+da+Penha%2C+652%2C+Centro%2C+Sorocaba%2C+SP",
 
   // Link do Grupo VIP
-  vip: "COLE_AQUI_O_LINK_DO_GRUPO_VIP"
+  vip: "https://chat.whatsapp.com/C1QAo4ND5PwEkZKzDCx4XE"
 
 };
 
